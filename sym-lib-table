@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "candleLight-rescue")(type "Legacy")(uri "${KIPRJMOD}/candleLight-rescue.lib")(options "")(descr ""))
+)

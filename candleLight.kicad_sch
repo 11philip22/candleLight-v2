@@ -1,0 +1,1674 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8ad3dade-ecc8-451e-9a3d-eee88fcc5acc")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_1_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_1_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_2_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_2_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_3"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_3_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_3_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_4"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_4_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_4_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_5"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_5_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_5_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_6"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_6_0_1"
+				(polyline
+					(pts
+						(xy -3.81 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_6_1_1"
+				(pin no_connect line
+					(at 0 0 0)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+					(number "~"
+						(effects
+							(font
+								(size 0.127 0.127)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 105.41 80.01) (xy 105.41 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0db14b78-c6e5-4c6e-96e0-b29c359a2546")
+	)
+	(wire
+		(pts
+			(xy 110.49 85.09) (xy 119.38 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10eb91c8-bd82-46d8-83ac-5f986d3a9418")
+	)
+	(wire
+		(pts
+			(xy 119.38 91.44) (xy 113.03 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a2c65e1-7d7c-465a-be92-10ac8f57e124")
+	)
+	(wire
+		(pts
+			(xy 115.57 93.98) (xy 115.57 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d59b8df-007f-45ed-a950-7e57e7c2cb99")
+	)
+	(wire
+		(pts
+			(xy 113.03 129.54) (xy 119.38 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29887028-5e29-4ca9-b316-1b7acb26d8d9")
+	)
+	(wire
+		(pts
+			(xy 107.95 82.55) (xy 107.95 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3699420e-1b17-4915-b368-465a9f17a4e2")
+	)
+	(wire
+		(pts
+			(xy 143.51 91.44) (xy 151.13 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37bfbf67-2e2d-4792-bc7b-8a243a979370")
+	)
+	(wire
+		(pts
+			(xy 107.95 82.55) (xy 119.38 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a4d371c-13a3-4db8-9107-a51d1f7470bb")
+	)
+	(wire
+		(pts
+			(xy 154.94 80.01) (xy 143.51 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4df17515-0958-4879-bbec-1ac19ae0f127")
+	)
+	(wire
+		(pts
+			(xy 151.13 104.14) (xy 154.94 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5050bf04-7274-47ff-9ce8-7dcc1ec49d4e")
+	)
+	(wire
+		(pts
+			(xy 113.03 91.44) (xy 113.03 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56870c92-57c4-4573-9cc7-41f5ab8c110a")
+	)
+	(wire
+		(pts
+			(xy 107.95 137.16) (xy 119.38 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58b41540-2151-4c23-9d98-52dc9515d901")
+	)
+	(wire
+		(pts
+			(xy 180.34 82.55) (xy 186.69 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "601675df-d93b-4812-bdf8-c8a6d5808949")
+	)
+	(wire
+		(pts
+			(xy 151.13 91.44) (xy 151.13 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69aeecb6-43b0-46d1-af6a-168db1ec2eda")
+	)
+	(wire
+		(pts
+			(xy 119.38 80.01) (xy 105.41 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "730b216a-b059-42e7-8ad1-9d8bc107af22")
+	)
+	(wire
+		(pts
+			(xy 148.59 93.98) (xy 148.59 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73e6deed-bd5f-4401-833e-34cf0eb074e3")
+	)
+	(wire
+		(pts
+			(xy 154.94 85.09) (xy 143.51 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "760ddc51-ba49-4f84-bf76-921c6937d82b")
+	)
+	(wire
+		(pts
+			(xy 105.41 139.7) (xy 119.38 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9612627e-50f7-4d65-98eb-65ea9747ab56")
+	)
+	(wire
+		(pts
+			(xy 115.57 127) (xy 119.38 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9875eda0-9c1f-46fe-bdfa-3c0903e47c64")
+	)
+	(wire
+		(pts
+			(xy 143.51 93.98) (xy 148.59 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "999750a9-7474-48ef-ae7f-27ddca42a34d")
+	)
+	(wire
+		(pts
+			(xy 184.15 85.09) (xy 180.34 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a70eeb0-969b-4915-a51f-3c3b348d1a66")
+	)
+	(wire
+		(pts
+			(xy 148.59 106.68) (xy 154.94 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a8779e4-de11-4b44-be41-ba2a63f37a7c")
+	)
+	(wire
+		(pts
+			(xy 115.57 93.98) (xy 119.38 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a467fd79-6f00-4459-89dc-03fb002c9612")
+	)
+	(wire
+		(pts
+			(xy 186.69 82.55) (xy 186.69 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b80ebfef-25ba-4408-9b26-a77c80a53407")
+	)
+	(wire
+		(pts
+			(xy 184.15 127) (xy 180.34 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd3b3c4a-d688-4113-b554-3d93274c531d")
+	)
+	(wire
+		(pts
+			(xy 184.15 85.09) (xy 184.15 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dea78811-c653-42f2-928b-cc7714ebddd2")
+	)
+	(wire
+		(pts
+			(xy 119.38 134.62) (xy 110.49 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df0c2596-9d6e-4b88-8864-b9fa73e3f3bf")
+	)
+	(wire
+		(pts
+			(xy 186.69 129.54) (xy 180.34 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4409371-f7df-48f3-867a-24b2e0287c50")
+	)
+	(wire
+		(pts
+			(xy 154.94 82.55) (xy 143.51 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec4b069c-4b41-4b76-846f-0db3b220a06b")
+	)
+	(wire
+		(pts
+			(xy 110.49 134.62) (xy 110.49 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f894c2a1-7a70-456a-8bf2-f726993c8a99")
+	)
+	(symbol
+		(lib_name "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_4")
+		(lib_id "candleLight-rescue:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011")
+		(at 251.46 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-000056fc5cd2")
+		(property "Reference" "FID101"
+			(at 251.46 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+			(at 251.46 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop"
+			(at 251.46 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "~"
+			(uuid "22297028-5485-478a-bb98-e86f1b1fd657")
+		)
+		(instances
+			(project ""
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(reference "FID101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_5")
+		(lib_id "candleLight-rescue:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011")
+		(at 251.46 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-000056fc5dc9")
+		(property "Reference" "FID102"
+			(at 251.46 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+			(at 251.46 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop"
+			(at 251.46 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "~"
+			(uuid "b167e155-a32b-4115-b584-86167fd9de01")
+		)
+		(instances
+			(project ""
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(reference "FID102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011_6")
+		(lib_id "candleLight-rescue:Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011")
+		(at 251.46 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-000056fc6d4e")
+		(property "Reference" "FID103"
+			(at 251.46 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Dummy_FIDUCIAL_Passermarke_Type1_RevE_Date16Nov2011"
+			(at 251.46 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop"
+			(at 251.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "~"
+			(uuid "c29da5cc-f6d8-4b66-b214-5f8c0fbaf459")
+		)
+		(instances
+			(project ""
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(reference "FID103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 77.47)
+		(size 24.13 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000056f3b16b")
+		(property "Sheetname" "MCU"
+			(at 119.38 76.6314 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 119.38 97.2062 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(pin "NRST" bidirectional
+			(at 119.38 80.01 180)
+			(uuid "d6c11f53-a194-4ea4-b06e-e998e2d1c795")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWCLK" input
+			(at 119.38 82.55 180)
+			(uuid "b17c440d-e86d-4d48-809d-c3b5d1c76140")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWDIO" bidirectional
+			(at 119.38 85.09 180)
+			(uuid "4f96922a-6924-4b5a-b603-e2d98a1759cb")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 119.38 91.44 180)
+			(uuid "ac5865de-dbbb-44ca-a716-6ad275083aaa")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DM" bidirectional
+			(at 119.38 93.98 180)
+			(uuid "c8158119-6d70-4e35-be5c-23f55cb6d0d0")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_TX" output
+			(at 143.51 82.55 0)
+			(uuid "54619805-41ff-4c9d-8598-32ed349c6022")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED2" output
+			(at 143.51 93.98 0)
+			(uuid "9f2171fc-1789-427b-a2c9-1e8d4977d24d")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "LED1" output
+			(at 143.51 91.44 0)
+			(uuid "bd1c1b9a-0cc1-4c58-9b2d-4a4c389cbcc0")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_S" output
+			(at 143.51 85.09 0)
+			(uuid "0a2d6ce7-7d5e-449f-afbd-8164b77004e2")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_RX" input
+			(at 143.51 80.01 0)
+			(uuid "9b88d344-3294-43c4-aa74-67159f13d6e2")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "candleLight"
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 52.07)
+		(size 60.96 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000056f3b1a0")
+		(property "Sheetname" "Power"
+			(at 119.38 51.2314 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 119.38 69.2662 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "candleLight"
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 77.47)
+		(size 25.4 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000056f3b1ac")
+		(property "Sheetname" "CAN"
+			(at 154.94 76.6314 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 154.94 97.2062 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN_TXD" input
+			(at 154.94 82.55 180)
+			(uuid "2b8420d5-0d2d-4bef-82f3-1eed6051457d")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_RXD" output
+			(at 154.94 80.01 180)
+			(uuid "f52057b1-a4d0-4316-8106-f7e9d44a358d")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_S" input
+			(at 154.94 85.09 180)
+			(uuid "e2e5b447-c453-493f-bca6-ab67e9db7726")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_H" bidirectional
+			(at 180.34 82.55 0)
+			(uuid "5b625d4c-38e6-4c12-b7b0-44ed9d3a780a")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_L" bidirectional
+			(at 180.34 85.09 0)
+			(uuid "b2d2b15a-9d7c-4183-ba63-e009773a00d0")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "candleLight"
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 121.92)
+		(size 60.96 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000056f568c1")
+		(property "Sheetname" "Connectors"
+			(at 119.38 121.0814 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 119.38 144.1962 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CAN_L" bidirectional
+			(at 180.34 127 0)
+			(uuid "d826cda1-61a9-4b97-a06e-5c13bc187e98")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_H" bidirectional
+			(at 180.34 129.54 0)
+			(uuid "f94f22da-94aa-4303-816b-6f8722a56f86")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_DM" bidirectional
+			(at 119.38 127 180)
+			(uuid "a95975c1-fda8-48d1-a954-af6d23997888")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DP" bidirectional
+			(at 119.38 129.54 180)
+			(uuid "c237d76f-76f2-416b-819b-d5c1c97360eb")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWCLK" output
+			(at 119.38 137.16 180)
+			(uuid "98370f9e-68a1-4da0-bf12-5ef48e7384aa")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "SWDIO" bidirectional
+			(at 119.38 134.62 180)
+			(uuid "afc7619c-72a7-4119-8e72-f180c1775fed")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "NRST" bidirectional
+			(at 119.38 139.7 180)
+			(uuid "d932fbbc-998d-4557-b366-53ffc2c40f4a")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "candleLight"
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 154.94 101.6)
+		(size 25.4 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "00000000-0000-0000-0000-000056f5f6f8")
+		(property "Sheetname" "LEDs"
+			(at 154.94 100.7614 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "leds.kicad_sch"
+			(at 154.94 109.9062 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LED2" input
+			(at 154.94 106.68 180)
+			(uuid "a001e23a-3d21-4e13-983f-b0cd0c68a4e1")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(pin "LED1" input
+			(at 154.94 104.14 180)
+			(uuid "3f1d75a2-f651-4ba6-a129-67036a8ee200")
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "candleLight"
+				(path "/8ad3dade-ecc8-451e-9a3d-eee88fcc5acc"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
