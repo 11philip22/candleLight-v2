@@ -2376,6 +2376,15 @@
 				)
 			)
 		)
+		(property "MPN" "C632035"
+			(at 143.51 95.25 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11af6aea-fc50-4e44-bc02-386b4ba74eb3")
 		)
@@ -2636,6 +2645,15 @@
 				)
 			)
 		)
+		(property "MPN" "C440198"
+			(at 129.54 100.33 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4a9c7aa8-4278-47b1-8553-18c6ee39c192")
 		)
@@ -2702,6 +2720,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C440198"
+			(at 156.21 100.33 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"

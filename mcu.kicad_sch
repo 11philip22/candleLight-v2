@@ -11821,6 +11821,15 @@
 				)
 			)
 		)
+		(property "MPN" "C80488"
+			(at 147.32 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "20"
 			(uuid "a5bc0494-92d1-4c58-aafa-367b3301c7d7")
 		)
@@ -12025,6 +12034,15 @@
 				)
 			)
 		)
+		(property "MPN" "C144380"
+			(at 34.29 80.01 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22fa7137-2d57-4c39-8e5d-9e1f410a5d91")
 		)
@@ -12217,6 +12235,15 @@
 				)
 			)
 		)
+		(property "MPN" "C23162"
+			(at 29.21 111.76 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "43827491-ed03-4216-a46d-2d98c242429a")
 		)
@@ -12281,6 +12308,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C23162"
+			(at 29.21 114.3 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12478,6 +12514,15 @@
 				)
 			)
 		)
+		(property "MPN" "C21190"
+			(at 99.06 175.26 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d9243f8c-0bce-4a7f-83a5-cc5b36dcc1bb")
 		)
@@ -12672,6 +12717,15 @@
 				)
 			)
 		)
+		(property "MPN" "C91702"
+			(at 27.94 77.47 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfa40d18-b428-43b4-8d40-cda947223f95")
 		)
@@ -12738,6 +12792,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C91702"
+			(at 27.94 82.55 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -12934,6 +12997,15 @@
 				)
 			)
 		)
+		(property "MPN" "C14663"
+			(at 63.5 173.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f4a9f3ba-b839-4ce8-bd50-317c534dca1c")
 		)
@@ -13126,6 +13198,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C14663"
+			(at 55.88 173.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -13322,6 +13403,15 @@
 				)
 			)
 		)
+		(property "MPN" "C14663"
+			(at 48.26 173.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0075fa0-c73a-4901-9762-e3df7a78509e")
 		)
@@ -13516,6 +13606,15 @@
 				)
 			)
 		)
+		(property "MPN" "C14663"
+			(at 40.64 173.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f867e102-8b82-49c9-a2f7-2e00e9bdcfef")
 		)
@@ -13708,6 +13807,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C440198 "
+			(at 74.93 173.99 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14028,6 +14136,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "C105621"
+			(at 34.29 67.31 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
