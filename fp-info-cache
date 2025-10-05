@@ -1,4 +1,4 @@
-25208957173011065
+25238849406202415
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101275,3 +101275,122 @@ Varistor VF
 0
 2
 2
+stm32world
+CONN-SMD_98P-P1.00-V_3133
+
+
+0
+100
+100
+stm32world
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+stm32world
+LED-SMD_4P-L3.7-W3.5-P1.75-BR-SK6812MINI
+
+
+0
+4
+4
+stm32world
+LED_WS2812C-2020
+
+
+0
+4
+4
+stm32world
+PROTO_PAD
+THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm
+test point THT pad
+0
+1
+1
+stm32world
+PinSocket_2x20_P2.54mm_Vertical
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+stm32world
+PinSocket_2x20_P2.54mm_Vertical_Stackable
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+stm32world
+STM32WORLD_BASE
+
+
+0
+80
+80
+stm32world
+STM32WORLD_BOARD
+
+
+0
+0
+0
+stm32world
+STMW_BUS
+STM32World Board Connector
+PCIe
+0
+98
+98
+stm32world
+STMW_Board
+STM32World Board Connector
+PCIe
+0
+98
+98
+stm32world
+ST_TFBGA-361_12x12mm_Layout23x23_P0.5mmP0.65mm
+ST TFBGA-361, 12.0x12.0mm, 361 Ball, 23x23 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf
+BGA 361 0.5
+0
+361
+361
+stm32world
+TFBGA361_12X12_STM
+
+STM32MP151AAC3 
+0
+361
+361
+stm32world
+TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack
+TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+29
+25
+stm32world
+TS-1088R-02526
+
+
+0
+2
+2
+stm32world
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+stm32world
+WS2812E-MINI-X1
+
+
+0
+4
+4
