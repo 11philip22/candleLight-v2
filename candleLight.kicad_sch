@@ -14236,7 +14236,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "30pF"
 			(at 65.786 51.816 90)
 			(effects
 				(font
@@ -14270,7 +14270,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1648"
+		(property "MPN" "C1658"
 			(at 63.5 54.61 90)
 			(effects
 				(font
@@ -14368,7 +14368,7 @@
 		(dnp no)
 		(uuid "8944b2e2-ad4f-496e-9995-92aa9331ccd9")
 		(property "Reference" "C4"
-			(at 62.23 61.214 90)
+			(at 62.23 60.706 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14376,7 +14376,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "30pF"
 			(at 66.294 62.484 90)
 			(effects
 				(font
@@ -14410,7 +14410,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1648"
+		(property "MPN" "C1658"
 			(at 63.5 59.69 90)
 			(effects
 				(font
