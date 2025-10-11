@@ -212,7 +212,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -237,7 +237,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/86fcbe5d-3232-47f7-8d39-29f27994064e")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -425,7 +425,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -450,7 +450,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/8944b2e2-ad4f-496e-9995-92aa9331ccd9")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -638,7 +638,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -663,7 +663,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/bfb1d1e3-4f5b-4496-a9e1-c4d6fcc2af6c")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -851,7 +851,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -876,7 +876,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/50e98adb-8d2d-4a8b-898c-cb14b028df6b")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -1064,7 +1064,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1089,7 +1089,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/1fb8d7ae-c5dc-4dc2-a0a1-b709b61bbe2e")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -1277,7 +1277,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1302,7 +1302,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/bb4897b4-97f8-4fef-b1ad-01f206b4e454")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -1490,7 +1490,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1515,7 +1515,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/af9dec25-15ba-4d22-a3cf-eb5c1093888c")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -1703,7 +1703,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1728,7 +1728,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/f37e2dd1-3534-4ca1-9f27-ac343220694a")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -1916,7 +1916,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1941,7 +1941,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/2e828ffd-fc66-49c2-833f-0e5018e2bbd1")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -2129,7 +2129,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2154,7 +2154,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/62c48e02-4712-4318-bfd6-c88625d5976f")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -2342,7 +2342,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2367,7 +2367,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/5c758add-c842-427c-9fdf-2990eabb5e57")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -2555,7 +2555,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2580,7 +2580,20 @@
 				)
 			)
 		)
-		(property ki_fp_filters "LED-* LED_*")
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f186868f-d2f3-4617-9923-d9c741000643")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0535976b-6f80-4284-9528-98830e7b03b7")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -2790,7 +2803,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2815,7 +2828,20 @@
 				)
 			)
 		)
-		(property ki_fp_filters "LED-* LED_*")
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ddac1ca-2160-4960-8a37-375feddc4f54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9b51c773-f9e6-4b1c-ba86-57ebfcc1521a")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -3025,7 +3051,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Light emitting diode"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3050,7 +3076,20 @@
 				)
 			)
 		)
-		(property ki_fp_filters "LED-* LED_*")
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3fafbc7-26eb-42c5-89a5-f12e61088190")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6b6f71b0-faff-4ccb-9895-e3d19847ce94")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -3260,7 +3299,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3285,7 +3324,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/fb69bfa5-09dc-47b6-a2ce-8c40ee97068a")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -3473,7 +3512,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3498,7 +3537,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/59f90b26-1ce4-412e-82d3-be3206b62321")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -3686,7 +3725,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3711,7 +3750,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/90f5d677-f70e-4586-9e7c-95fc633d40f0")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -3899,7 +3938,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3924,7 +3963,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/1a883092-ba20-4e32-95a8-5f5054f8981f")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -4112,7 +4151,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4137,7 +4176,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/31475a58-69ae-4425-ba60-4926c89656d9")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -4325,7 +4364,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4350,7 +4389,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/bbd05147-d251-46e6-8296-1a6055d1ceeb")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -4538,7 +4577,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4563,7 +4602,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/d4ba6337-a008-4103-959b-f87e5b43aa12")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -5696,7 +5735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586175376192655360"
+		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20002276C.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5709,7 +5748,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Fixed 150mA Low Dropout Voltage Regulator, Positive, 1.8V output, SOT-89"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5735,7 +5774,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "SOT-89*")
+		(property ki_fp_filters "SOT?89*")
 		(path "/eb26d47a-4a94-4741-bf86-344b361f1dc8")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -6280,7 +6319,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Two pin crystal, small symbol"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6306,7 +6345,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "Crystal_")
+		(property ki_fp_filters "Crystal*")
 		(path "/c10f6833-b06b-4f08-a881-d4c7c6508f40")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -6598,7 +6637,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6623,7 +6662,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "C? C_????_* C_???? SMD*_c Capacitor*")
+		(property ki_fp_filters "C_*")
 		(path "/fefbeb8e-e878-4aad-b281-c882389d6116")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -6788,7 +6827,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "dnp"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c27656c9-5041-4740-9388-7ff5dfbbbaa1")
@@ -6811,7 +6850,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6823,7 +6862,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/4787e090-bb50-492c-afaa-97c0f63516d8")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -7012,7 +7051,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7024,7 +7063,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "R_* Resistor_*")
+		(property ki_fp_filters "R_*")
 		(path "/371cac9f-d515-418a-9fd2-e20783dedf54")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -7498,34 +7537,34 @@
 		(sheetfile "candleLight.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -4.699999 3.9)
-			(end 4.699999 3.9)
+			(start -4.7 3.9)
+			(end 4.7 3.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f9026b52-1467-45e5-9dda-20fc7ae5d860")
+			(uuid "606fdfcb-7eef-4205-bb8d-01419264bad8")
 		)
 		(fp_line
-			(start -4.699999 2)
-			(end -4.699999 3.9)
+			(start -4.7 2)
+			(end -4.7 3.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "35152de8-1d51-4f04-919c-229ff8ac8767")
+			(uuid "7fbf0d63-ab80-4c1c-808b-be55aa40a926")
 		)
 		(fp_line
-			(start 4.699999 2)
-			(end 4.699999 3.9)
+			(start 4.7 2)
+			(end 4.7 3.9)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9e97fcf2-7994-442c-a6a7-df1a2ad84d03")
+			(uuid "30dc788d-0dd1-4d88-bf0f-98bc9bbda3aa")
 		)
 		(fp_line
 			(start -4.7 -1.9)
@@ -7535,7 +7574,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b2cec17e-d644-417e-92a0-761b2911ff45")
+			(uuid "c750de8a-d74e-4cdb-9d77-ab09db03eaf1")
 		)
 		(fp_line
 			(start 4.7 -1.9)
@@ -7545,7 +7584,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a9f5f511-30f8-41cc-b85e-d35d0f063ebc")
+			(uuid "af5e812e-6f87-4f0e-ae6e-6dae60aad009")
 		)
 		(fp_line
 			(start -5.32 4.15)
@@ -7555,7 +7594,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d02a727d-5461-4d2c-bf40-c161a0a3e5c4")
+			(uuid "ed886853-020a-48f3-bf87-c60f8d5d748b")
 		)
 		(fp_line
 			(start -5.32 -5.27)
@@ -7565,7 +7604,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a9abff2e-0775-4e6f-b7f8-5ad6531c771c")
+			(uuid "06f2ea8a-f1bc-4455-bf08-325f98735e76")
 		)
 		(fp_line
 			(start -5.32 -5.27)
@@ -7575,7 +7614,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ce410a0d-7554-4249-b166-f5099f682cc5")
+			(uuid "bfb7e927-60d0-4ada-b399-6fb35c221c8a")
 		)
 		(fp_line
 			(start 5.32 -5.27)
@@ -7585,7 +7624,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "eb772679-de05-4585-9b77-eb355749df8a")
+			(uuid "42c2722b-73c2-4c9d-b3e4-14c198722dda")
 		)
 		(fp_line
 			(start -4.47 3.65)
@@ -7595,7 +7634,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "db28737e-bbc2-40ac-ada3-a805a2158120")
+			(uuid "6249780f-8622-4a16-bb3b-62b914d717f1")
 		)
 		(fp_line
 			(start -4.47 -3.65)
@@ -7605,7 +7644,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "351bc5f5-ed17-4fde-9590-8921b9c8d4e7")
+			(uuid "e213f3f3-a850-4964-8013-a72f9f2c0b31")
 		)
 		(fp_line
 			(start -4.47 -3.65)
@@ -7615,7 +7654,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4bda7d49-bfc7-451e-a935-992bff7a78ee")
+			(uuid "5fcb8d5b-8eaf-48e3-aa9a-4a2ed5f260f1")
 		)
 		(fp_line
 			(start 4.47 -3.65)
@@ -7625,7 +7664,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b1bea7c8-9c3f-41b7-af53-bfbf4b6892f6")
+			(uuid "405a64fc-7efd-4eae-9ffb-4a6fcca1fe5d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -7643,14 +7682,14 @@
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "c2908d74-c3dd-4aa8-8d40-cffbd9e7fc43")
+			(uuid "1480825c-6234-4259-bc1c-5e5f36024cf8")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.89 -2.6 270)
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f3f1abf5-94ae-467b-9fa9-7ecaa7fa7a7e")
+			(uuid "e0f26d1e-575b-4d2a-a81a-f153f0c69cfe")
 		)
 		(pad "A1" smd rect
 			(at -3.25 -4.045 270)
@@ -7662,7 +7701,7 @@
 			(uuid "7c52e904-9fcd-4a2d-8328-efa95a3e2d72")
 		)
 		(pad "A4" smd rect
-			(at -2.450001 -4.045 270)
+			(at -2.45 -4.045 270)
 			(size 0.6 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 5 "+5V")
@@ -7671,7 +7710,7 @@
 			(uuid "a30bd10a-724c-4c9f-8f4b-aa8ac81e4603")
 		)
 		(pad "A5" smd rect
-			(at -1.25 -4.044999 270)
+			(at -1.25 -4.045 270)
 			(size 0.3 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 36 "Net-(J1-CC1)")
@@ -7698,7 +7737,7 @@
 			(uuid "f3c7ebfc-9276-4dc6-970c-feff4acf0ac9")
 		)
 		(pad "A8" smd rect
-			(at 1.25 -4.044999 270)
+			(at 1.25 -4.045 270)
 			(size 0.3 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 37 "unconnected-(J1-SBU1-PadA8)")
@@ -7707,7 +7746,7 @@
 			(uuid "3a7641e1-fa35-4dc0-a830-9290f9780b51")
 		)
 		(pad "A9" smd rect
-			(at 2.450001 -4.045 270)
+			(at 2.45 -4.045 270)
 			(size 0.6 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 5 "+5V")
@@ -7734,7 +7773,7 @@
 			(uuid "59b96445-0426-46b6-8f3a-5cc02a10657a")
 		)
 		(pad "B4" smd rect
-			(at 2.450001 -4.045 270)
+			(at 2.45 -4.045 270)
 			(size 0.6 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 5 "+5V")
@@ -7779,7 +7818,7 @@
 			(uuid "9e05d18d-fdcf-49b5-841c-d98f552402a5")
 		)
 		(pad "B9" smd rect
-			(at -2.450001 -4.045 270)
+			(at -2.45 -4.045 270)
 			(size 0.6 1.45)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 5 "+5V")
@@ -7816,7 +7855,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "d7290955-673b-4e05-ac98-cee96fb556e1")
+			(uuid "76fd0e34-b39f-45b4-9601-d5112db96135")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.13 270)
@@ -7827,7 +7866,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "efb1123e-4bef-4f77-a21e-a74887c35691")
+			(uuid "4e38fea4-3dab-401a-ad7a-ebbfd3b24a93")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.05 270)
@@ -7838,7 +7877,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "67ff51f4-d5d0-48bb-9c91-0dedee048a03")
+			(uuid "4785af93-9e7b-4994-a5b8-7db3632ded68")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).step"
@@ -9041,7 +9080,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9053,6 +9092,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/6a0b34ab-80b2-41f6-80c7-2b1a7c229edf")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9160,7 +9200,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9172,6 +9212,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/fac172cf-374a-4f9b-ab26-d51a40dcf71c")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9303,7 +9344,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9315,6 +9356,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/103564ac-9806-4d91-9d18-5082e8a73205")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9451,7 +9493,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9463,6 +9505,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/2275bcba-7ec2-41f6-939b-072a1d435a02")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9572,7 +9615,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9584,6 +9627,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/33cd92f5-7121-4b7e-8715-370d07c63ee7")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9688,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9700,6 +9744,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/7bb5977a-d24a-41a4-82eb-89c497054d6f")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9806,7 +9851,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9818,6 +9863,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/1d741a46-eb9d-42ae-bfab-3277b5107083")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -9922,7 +9968,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9934,6 +9980,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/ed0ddb8a-db51-4144-8e7b-4c2b514ef450")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -10003,7 +10050,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10015,6 +10062,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/7489a09a-799c-4b54-8a4f-88246cff78c9")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -10084,7 +10132,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "test point"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10096,6 +10144,7 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Pin* Test*")
 		(path "/7a573d8b-4c5e-4c5d-b604-892b226c2d7e")
 		(sheetname "/")
 		(sheetfile "candleLight.kicad_sch")
@@ -15884,21 +15933,21 @@
 				(xy 73.015892 90.8495) (xy 72.884108 90.8495) (xy 72.884105 90.8495) (xy 72.756815 90.883607) (xy 72.756811 90.883608)
 				(xy 72.69901 90.916981) (xy 72.661828 90.921876) (xy 72.632075 90.899046) (xy 72.62551 90.874546)
 				(xy 72.62551 87.657155) (xy 72.625509 87.657154) (xy 72.625441 87.656902) (xy 72.617028 87.6255)
-				(xy 72.603328 87.574371) (xy 72.600659 87.569749) (xy 72.560474 87.500147) (xy 72.238563 87.178236)
-				(xy 72.224211 87.143588) (xy 72.238563 87.10894) (xy 72.257028 87.097338) (xy 72.312876 87.077795)
-				(xy 72.312874 87.077795) (xy 72.312882 87.077793) (xy 72.347644 87.052138) (xy 72.42215 86.99715)
-				(xy 72.502791 86.887885) (xy 72.502791 86.887884) (xy 72.502793 86.887882) (xy 72.516794 86.84787)
-				(xy 72.543756 86.770817) (xy 72.568745 86.742853) (xy 72.590006 86.738) (xy 76.757377 86.738) (xy 76.792025 86.752352)
-				(xy 79.335148 89.295475) (xy 79.3495 89.330123) (xy 79.3495 91.454275) (xy 79.352353 91.484698)
-				(xy 79.352353 91.484699) (xy 79.397204 91.612876) (xy 79.397208 91.612885) (xy 79.477849 91.72215)
-				(xy 79.587114 91.802791) (xy 79.587117 91.802792) (xy 79.587118 91.802793) (xy 79.58712 91.802793)
-				(xy 79.587123 91.802795) (xy 79.652011 91.8255) (xy 79.715301 91.847646) (xy 79.745734 91.8505)
-				(xy 79.745744 91.8505) (xy 81.954256 91.8505) (xy 81.954266 91.8505) (xy 81.984699 91.847646) (xy 82.112882 91.802793)
-				(xy 82.131092 91.789354) (xy 82.22215 91.72215) (xy 82.302791 91.612885) (xy 82.302791 91.612884)
-				(xy 82.302793 91.612882) (xy 82.347646 91.484699) (xy 82.3505 91.454266) (xy 82.3505 89.245734)
-				(xy 82.347646 89.215301) (xy 82.338442 89.188998) (xy 82.302795 89.087123) (xy 82.302791 89.087114)
-				(xy 82.22215 88.977849) (xy 82.112885 88.897208) (xy 82.112876 88.897204) (xy 81.984698 88.852353)
-				(xy 81.954275 88.8495) (xy 81.954266 88.8495) (xy 79.830123 88.8495) (xy 79.795475 88.835148) (xy 77.112362 86.152035)
+				(xy 72.603328 87.574371) (xy 72.560475 87.500148) (xy 72.238563 87.178236) (xy 72.224211 87.143588)
+				(xy 72.238563 87.10894) (xy 72.257028 87.097338) (xy 72.312876 87.077795) (xy 72.312874 87.077795)
+				(xy 72.312882 87.077793) (xy 72.347644 87.052138) (xy 72.42215 86.99715) (xy 72.502791 86.887885)
+				(xy 72.502791 86.887884) (xy 72.502793 86.887882) (xy 72.516794 86.84787) (xy 72.543756 86.770817)
+				(xy 72.568745 86.742853) (xy 72.590006 86.738) (xy 76.757377 86.738) (xy 76.792025 86.752352) (xy 79.335148 89.295475)
+				(xy 79.3495 89.330123) (xy 79.3495 91.454275) (xy 79.352353 91.484698) (xy 79.352353 91.484699)
+				(xy 79.397204 91.612876) (xy 79.397208 91.612885) (xy 79.477849 91.72215) (xy 79.587114 91.802791)
+				(xy 79.587117 91.802792) (xy 79.587118 91.802793) (xy 79.58712 91.802793) (xy 79.587123 91.802795)
+				(xy 79.652011 91.8255) (xy 79.715301 91.847646) (xy 79.745734 91.8505) (xy 79.745744 91.8505) (xy 81.954256 91.8505)
+				(xy 81.954266 91.8505) (xy 81.984699 91.847646) (xy 82.112882 91.802793) (xy 82.131092 91.789354)
+				(xy 82.22215 91.72215) (xy 82.302791 91.612885) (xy 82.302791 91.612884) (xy 82.302793 91.612882)
+				(xy 82.347646 91.484699) (xy 82.3505 91.454266) (xy 82.3505 89.245734) (xy 82.347646 89.215301)
+				(xy 82.338442 89.188998) (xy 82.302795 89.087123) (xy 82.302791 89.087114) (xy 82.22215 88.977849)
+				(xy 82.112885 88.897208) (xy 82.112876 88.897204) (xy 81.984698 88.852353) (xy 81.954275 88.8495)
+				(xy 81.954266 88.8495) (xy 79.830123 88.8495) (xy 79.795475 88.835148) (xy 77.112362 86.152035)
 				(xy 77.03814 86.109182) (xy 77.038137 86.109181) (xy 76.955356 86.087) (xy 76.955353 86.087) (xy 72.590006 86.087)
 				(xy 72.555358 86.072648) (xy 72.543756 86.054183) (xy 72.502795 85.937123) (xy 72.502791 85.937114)
 				(xy 72.42215 85.827849) (xy 72.312885 85.747208) (xy 72.312876 85.747204) (xy 72.184698 85.702353)
@@ -16094,7 +16143,7 @@
 				(xy 50.5995 81.542685) (xy 50.533608 81.656811) (xy 50.533607 81.656815) (xy 50.4995 81.784104)
 				(xy 50.4995 81.915895) (xy 50.533607 82.043184) (xy 50.533608 82.043188) (xy 50.5995 82.157314)
 				(xy 50.660148 82.217962) (xy 50.6745 82.25261) (xy 50.6745 83.19278) (xy 50.696681 83.275561) (xy 50.696682 83.275564)
-				(xy 50.713259 83.304275) (xy 50.739535 83.349786) (xy 51.039609 83.64986) (xy 51.039611 83.649862)
+				(xy 50.723359 83.321769) (xy 50.739535 83.349786) (xy 51.039609 83.64986) (xy 51.039611 83.649862)
 				(xy 51.100214 83.710465) (xy 51.100215 83.710466) (xy 51.100217 83.710467) (xy 51.114899 83.718943)
 				(xy 51.138058 83.732314) (xy 51.174435 83.753317) (xy 51.174437 83.753317) (xy 51.174438 83.753318)
 				(xy 51.202033 83.760712) (xy 51.257222 83.775501) (xy 51.257224 83.775501) (xy 51.345926 83.775501)
@@ -16223,7 +16272,7 @@
 				(xy 60.624716 82.70956) (xy 60.6174 82.727222) (xy 60.590485 82.767503) (xy 60.590485 82.767505)
 				(xy 60.5745 82.847867) (xy 60.5745 82.847869) (xy 60.5745 82.84787) (xy 60.5745 83.052128) (xy 60.590485 83.132495)
 				(xy 60.590486 83.132498) (xy 60.6174 83.172778) (xy 60.624716 83.20956) (xy 60.6174 83.227222) (xy 60.590485 83.267503)
-				(xy 60.588882 83.275563) (xy 60.5745 83.347867) (xy 60.5745 83.347868) (xy 60.5745 83.34787) (xy 60.5745 83.552128)
+				(xy 60.587409 83.282968) (xy 60.5745 83.347867) (xy 60.5745 83.347868) (xy 60.5745 83.34787) (xy 60.5745 83.552128)
 				(xy 60.578483 83.572152) (xy 60.590485 83.632495) (xy 60.604046 83.652791) (xy 60.617701 83.673226)
 				(xy 60.625017 83.710008) (xy 60.617701 83.727672) (xy 60.590955 83.7677) (xy 60.575 83.847915) (xy 60.575 83.85)
 				(xy 62.45 83.85) (xy 62.45 83.847915) (xy 62.447244 83.834059) (xy 62.454561 83.797277) (xy 62.485744 83.776441)
@@ -16574,14 +16623,15 @@
 				(xy 48.426189 88.5505) (xy 48.889745 88.5505) (xy 48.889748 88.5505) (xy 48.948231 88.538867) (xy 49.014552 88.494552)
 				(xy 49.058867 88.428231) (xy 49.0705 88.369748) (xy 49.0705 87.730252) (xy 49.058867 87.671769)
 				(xy 49.058865 87.671766) (xy 49.058865 87.671765) (xy 49.057618 87.668753) (xy 49.057616 87.63125)
-				(xy 49.057619 87.631245) (xy 49.058865 87.628235) (xy 49.058865 87.628234) (xy 49.058867 87.628232)
-				(xy 49.0705 87.569749) (xy 49.0705 86.930253) (xy 49.058867 86.87177) (xy 49.045806 86.852223) (xy 49.03849 86.81544)
-				(xy 49.045807 86.797776) (xy 49.058866 86.778232) (xy 49.058865 86.778232) (xy 49.058867 86.778231)
-				(xy 49.0705 86.719748) (xy 49.0705 86.380252) (xy 49.058867 86.321769) (xy 49.058866 86.321767)
-				(xy 49.057617 86.318752) (xy 49.057615 86.281249) (xy 49.057618 86.28124) (xy 49.058861 86.278237)
-				(xy 49.058866 86.278231) (xy 49.070499 86.219748) (xy 49.070499 85.8995) (xy 49.084851 85.864852)
-				(xy 49.119499 85.8505) (xy 49.312065 85.8505) (xy 49.351801 85.839852) (xy 49.38849 85.830021) (xy 49.388493 85.830018)
-				(xy 49.3904 85.82923) (xy 49.409151 85.8255) (xy 50.462035 85.8255) (xy 50.496683 85.839852) (xy 51.266342 86.609511)
+				(xy 49.057618 87.631247) (xy 49.058865 87.628234) (xy 49.058865 87.628233) (xy 49.058867 87.628231)
+				(xy 49.0705 87.569748) (xy 49.0705 86.930252) (xy 49.058867 86.871769) (xy 49.045806 86.852223)
+				(xy 49.038489 86.815442) (xy 49.045807 86.797776) (xy 49.058866 86.778232) (xy 49.058865 86.778232)
+				(xy 49.058867 86.778231) (xy 49.0705 86.719748) (xy 49.0705 86.380252) (xy 49.058867 86.321769)
+				(xy 49.058865 86.321766) (xy 49.058865 86.321765) (xy 49.057618 86.318753) (xy 49.057616 86.28125)
+				(xy 49.057618 86.281247) (xy 49.058865 86.278234) (xy 49.058865 86.278233) (xy 49.058867 86.278231)
+				(xy 49.0705 86.219748) (xy 49.0705 85.8995) (xy 49.084852 85.864852) (xy 49.1195 85.8505) (xy 49.312065 85.8505)
+				(xy 49.351801 85.839852) (xy 49.38849 85.830021) (xy 49.388493 85.830018) (xy 49.3904 85.82923)
+				(xy 49.409151 85.8255) (xy 50.462035 85.8255) (xy 50.496683 85.839852) (xy 51.266342 86.609511)
 				(xy 51.322291 86.66546) (xy 51.390813 86.705021) (xy 51.42628 86.714524) (xy 51.467238 86.7255)
 				(xy 51.46724 86.7255) (xy 51.546364 86.7255) (xy 51.745877 86.7255) (xy 51.780525 86.739852) (xy 51.794877 86.7745)
 				(xy 51.780525 86.809148) (xy 50.639536 87.950137) (xy 50.639535 87.950137) (xy 50.596682 88.024359)

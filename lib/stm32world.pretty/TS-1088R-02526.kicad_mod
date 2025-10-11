@@ -145,7 +145,7 @@
 		(uuid "a50a7f93-2b6d-44af-8df8-45aca77f63f2")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../lib/3x4x2 tact button.step"
+	(model "${KIPRJMOD}/lib/3x4x2 tact button.step"
 		(offset
 			(xyz -2.5 0.75 0)
 		)

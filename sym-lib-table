@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "candleLight-rescue")(type "Legacy")(uri "${KIPRJMOD}/lib/candleLight-rescue.lib")(options "")(descr ""))
   (lib (name "stm32world")(type "Legacy")(uri "${KIPRJMOD}/lib/stm32world.lib")(options "")(descr ""))
 )

@@ -336,7 +336,7 @@
 		(uuid "45d3358b-6179-4307-8c5c-b78467688c78")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../lib/USB Type C Port (SMD Type).step"
+	(model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).step"
 		(offset
 			(xyz -0 3.4798 1.6002)
 		)

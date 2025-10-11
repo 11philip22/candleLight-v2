@@ -878,7 +878,7 @@
 		(uuid "d0a91cd0-2a59-4471-861d-6c4b77ef73ba")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/../lib/stm32world.pretty/CONN-SMD_98P-L56.0-W8.8-H11.3-P1.00.step"
+	(model "${KIPRJMOD}/lib/CONN-SMD_98P-L56.0-W8.8-H11.3-P1.00.step"
 		(offset
 			(xyz -13.5 0 0)
 		)
