@@ -6584,7 +6584,7 @@
 			(uuid "ebd6a468-993b-4454-8d2b-6132fe5f7e6e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/lib/ABM3-8.000MHZ-D2Y-T.stp"
+		(model "${KIPRJMOD}/lib/3D/ABM3-8.000MHZ-D2Y-T.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7544,7 +7544,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "606fdfcb-7eef-4205-bb8d-01419264bad8")
+			(uuid "3943e1b7-47a0-414d-b288-78ef6d2b31d0")
 		)
 		(fp_line
 			(start -4.7 2)
@@ -7554,7 +7554,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7fbf0d63-ab80-4c1c-808b-be55aa40a926")
+			(uuid "f372e307-b9b0-4934-b2a4-a898001e4785")
 		)
 		(fp_line
 			(start 4.7 2)
@@ -7564,7 +7564,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "30dc788d-0dd1-4d88-bf0f-98bc9bbda3aa")
+			(uuid "1f999444-f9d5-4bed-bb24-44eb13b743be")
 		)
 		(fp_line
 			(start -4.7 -1.9)
@@ -7574,7 +7574,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c750de8a-d74e-4cdb-9d77-ab09db03eaf1")
+			(uuid "07c34770-a8c5-494e-8c76-5e000548c5d4")
 		)
 		(fp_line
 			(start 4.7 -1.9)
@@ -7584,7 +7584,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "af5e812e-6f87-4f0e-ae6e-6dae60aad009")
+			(uuid "9af5c0ab-55e3-4dc4-8eb2-2331775716ee")
 		)
 		(fp_line
 			(start -5.32 4.15)
@@ -7594,7 +7594,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ed886853-020a-48f3-bf87-c60f8d5d748b")
+			(uuid "abff68b2-adbf-43a5-852e-8a6fe108ac37")
 		)
 		(fp_line
 			(start -5.32 -5.27)
@@ -7604,7 +7604,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "06f2ea8a-f1bc-4455-bf08-325f98735e76")
+			(uuid "cb892eea-04c2-46a4-8e1f-d9e01dfd835d")
 		)
 		(fp_line
 			(start -5.32 -5.27)
@@ -7614,7 +7614,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bfb7e927-60d0-4ada-b399-6fb35c221c8a")
+			(uuid "e7360df9-5a21-4da7-b774-70257403a425")
 		)
 		(fp_line
 			(start 5.32 -5.27)
@@ -7624,7 +7624,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "42c2722b-73c2-4c9d-b3e4-14c198722dda")
+			(uuid "5833de79-b0bf-4ab0-815f-6229585915b5")
 		)
 		(fp_line
 			(start -4.47 3.65)
@@ -7634,7 +7634,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6249780f-8622-4a16-bb3b-62b914d717f1")
+			(uuid "d6a304e3-9730-4c78-959a-98f63d46367a")
 		)
 		(fp_line
 			(start -4.47 -3.65)
@@ -7644,7 +7644,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e213f3f3-a850-4964-8013-a72f9f2c0b31")
+			(uuid "095fe9c2-d60d-4ba6-870d-a6c68b0f3528")
 		)
 		(fp_line
 			(start -4.47 -3.65)
@@ -7654,7 +7654,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5fcb8d5b-8eaf-48e3-aa9a-4a2ed5f260f1")
+			(uuid "6403ba57-8d9f-4526-a8e7-5cc750917b51")
 		)
 		(fp_line
 			(start 4.47 -3.65)
@@ -7664,7 +7664,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "405a64fc-7efd-4eae-9ffb-4a6fcca1fe5d")
+			(uuid "ff949aa1-97be-46b2-9dcf-f49d692e9899")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -7682,14 +7682,14 @@
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1480825c-6234-4259-bc1c-5e5f36024cf8")
+			(uuid "cc382eb5-26c6-41d5-a785-a99500b6bea4")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.89 -2.6 270)
 			(size 0.65 0.65)
 			(drill 0.65)
 			(layers "*.Cu" "*.Mask")
-			(uuid "e0f26d1e-575b-4d2a-a81a-f153f0c69cfe")
+			(uuid "cc2b22f0-2c25-4a63-b3e3-59bbbacc368b")
 		)
 		(pad "A1" smd rect
 			(at -3.25 -4.045 270)
@@ -7855,7 +7855,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "76fd0e34-b39f-45b4-9601-d5112db96135")
+			(uuid "97954e35-63d7-442d-85c9-709935a0de33")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.13 270)
@@ -7866,7 +7866,7 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "4e38fea4-3dab-401a-ad7a-ebbfd3b24a93")
+			(uuid "97954e35-63d7-442d-85c9-709935a0de33")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.05 270)
@@ -7877,10 +7877,10 @@
 			(net 1 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "4785af93-9e7b-4994-a5b8-7db3632ded68")
+			(uuid "97954e35-63d7-442d-85c9-709935a0de33")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).step"
+		(model "${KIPRJMOD}/lib/3D/USB Type C Port (SMD Type).step"
 			(offset
 				(xyz -0 3.4798 1.6002)
 			)
