@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "stm32world")(type "KiCad")(uri "${KIPRJMOD}/lib/stm32world.kicad_sym")(options "")(descr ""))
+  (lib (name "woldhack")(type "KiCad")(uri "${KIPRJMOD}/lib/woldhack.kicad_sym")(options "")(descr ""))
 )
