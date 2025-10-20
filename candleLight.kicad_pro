@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 0.83,
+          "width": 0.45
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.1524
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -450,7 +450,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -539,9 +539,33 @@
           "show": true
         },
         {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
           "show": true
         },
         {
@@ -554,69 +578,15 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Display",
-          "name": "Display",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": true,
-          "label": "DNP",
-          "name": "${DNP}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from BOM",
-          "name": "${EXCLUDE_FROM_BOM}",
-          "show": false
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Board",
-          "name": "${EXCLUDE_FROM_BOARD}",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
-      "sort_field": "Sim.Pins"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
