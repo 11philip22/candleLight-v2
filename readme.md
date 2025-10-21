@@ -1,7 +1,10 @@
 # candleLight
 
-## Todo
-- pcb
+<p>
+    <img src="images/2_1.jpg" alt="Photo1" width="200"/>
+    <img src="images/2_5.jpg" alt="Photo1" width="200"/>
+    <img src="images/2_4.jpg" alt="Photo1" width="200"/>
+</p>
 
 ## Changelog
 V2.1
