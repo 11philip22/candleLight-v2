@@ -6135,6 +6135,12 @@
 		(uuid "98886109-5c33-4b8f-92b4-56b968dd5fb4")
 	)
 	(junction
+		(at 262.89 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98e068a4-6b8b-4c33-b53d-65f8cefcfef5")
+	)
+	(junction
 		(at 57.15 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6199,12 +6205,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e96fec43-3597-4b2d-8762-aa4903260ec4")
-	)
-	(junction
-		(at 262.89 101.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ef2db25f-d2b3-4d0b-b313-0d66d63eccc3")
 	)
 	(junction
 		(at 102.87 173.99)
@@ -6358,7 +6358,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 96.52) (xy 260.35 78.74)
+			(xy 260.35 97.79) (xy 260.35 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6688,7 +6688,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 101.6) (xy 262.89 144.78)
+			(xy 262.89 88.9) (xy 262.89 102.87)
 		)
 		(stroke
 			(width 0)
@@ -7048,6 +7048,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 102.87) (xy 262.89 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57864864-370f-44c1-8eea-826d93f75c85")
+	)
+	(wire
+		(pts
 			(xy 237.49 33.02) (xy 237.49 34.29)
 		)
 		(stroke
@@ -7165,16 +7175,6 @@
 			(type default)
 		)
 		(uuid "649bbefc-8fd6-43b8-84fe-60d476237db6")
-	)
-	(wire
-		(pts
-			(xy 262.89 88.9) (xy 262.89 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68a3b475-2c9f-47b2-a343-bfa6a2431ad0")
 	)
 	(wire
 		(pts
@@ -7798,7 +7798,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 96.52) (xy 266.7 96.52)
+			(xy 260.35 97.79) (xy 266.7 97.79)
 		)
 		(stroke
 			(width 0)
@@ -7938,7 +7938,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 101.6) (xy 266.7 101.6)
+			(xy 262.89 102.87) (xy 266.7 102.87)
 		)
 		(stroke
 			(width 0)
@@ -7965,16 +7965,6 @@
 			(type default)
 		)
 		(uuid "d3b013c2-4c6b-4e6c-8a2e-b3444d35bb4b")
-	)
-	(wire
-		(pts
-			(xy 256.54 99.06) (xy 266.7 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d40939a9-29c1-4154-8193-8ef597cbdecf")
 	)
 	(wire
 		(pts
@@ -8105,6 +8095,16 @@
 			(type default)
 		)
 		(uuid "f15f2bb8-b271-4ac3-a16c-dba58f7ca610")
+	)
+	(wire
+		(pts
+			(xy 256.54 100.33) (xy 266.7 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f480f291-b898-480c-a4e4-2e810194d53f")
 	)
 	(wire
 		(pts
@@ -8638,7 +8638,7 @@
 	)
 	(global_label "BO0"
 		(shape input)
-		(at 256.54 99.06 180)
+		(at 256.54 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8648,7 +8648,7 @@
 		)
 		(uuid "9876a64d-6140-426a-9987-24a89e7bf27f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 250.399 99.06 0)
+			(at 250.399 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9358,7 +9358,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
-		(at 271.78 99.06 0)
+		(at 271.78 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9366,7 +9366,7 @@
 		(dnp no)
 		(uuid "0c6f3b64-e403-4fff-b1f1-d60a1e7b8a8f")
 		(property "Reference" "J5"
-			(at 270.51 93.98 0)
+			(at 270.51 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9375,7 +9375,7 @@
 			)
 		)
 		(property "Value" "Conn_BOOT0"
-			(at 264.922 104.14 0)
+			(at 264.922 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9384,7 +9384,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
-			(at 271.78 99.06 0)
+			(at 271.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9393,7 +9393,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 271.78 99.06 0)
+			(at 271.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9402,10 +9402,19 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 271.78 99.06 0)
+			(at 271.78 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C32713269"
+			(at 271.78 100.33 0)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
@@ -10023,6 +10032,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C32713273"
+			(at 271.78 121.92 0)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
@@ -11296,6 +11314,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2875699"
+			(at 172.72 93.98 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "b482623c-08a9-46d5-856a-1a0c28e90475")
 		)
@@ -11887,7 +11914,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1554"
+		(property "LCSC" "C1648"
 			(at 30.48 59.69 90)
 			(effects
 				(font
@@ -12108,7 +12135,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1554"
+		(property "LCSC" "C1648"
 			(at 38.1 59.69 90)
 			(effects
 				(font
@@ -12150,14 +12177,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_10UF_0805"
-			(at 140.97 35.56 0)
+		(property "Value" "10uF"
+			(at 140.462 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
@@ -12184,15 +12210,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Display" "10uF"
-			(at 139.7 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+				(hide yes)
 			)
 		)
 		(property "LCSC" "C15850"
@@ -12553,12 +12571,13 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C474951"
 			(at 271.78 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -12694,6 +12713,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C32713271"
+			(at 271.78 83.82 0)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
@@ -13328,7 +13356,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C440198"
+		(property "LCSC" "C15850"
 			(at 237.49 36.83 0)
 			(effects
 				(font
@@ -14074,7 +14102,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C440198"
+		(property "LCSC" "C15850"
 			(at 273.05 36.83 0)
 			(effects
 				(font
@@ -14231,6 +14259,15 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C32713269"
+			(at 198.12 73.66 90)
+			(effects
+				(font
+					(size 1.524 1.524)
 				)
 				(hide yes)
 			)
@@ -14720,14 +14757,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_10UF_0805"
-			(at 177.8 35.56 0)
+		(property "Value" "10uF"
+			(at 177.292 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
@@ -14754,15 +14790,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Display" "10uF"
-			(at 176.53 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 		(property "LCSC" "C15850"
