@@ -7,7 +7,8 @@
 	(title_block
 		(title "canleLight")
 		(date "2025-10-05")
-		(rev "V2")
+		(rev "V2.1")
+		(company "woldhack")
 	)
 	(lib_symbols
 		(symbol "+3.3V_10"
@@ -11878,7 +11879,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "30pF"
 			(at 30.226 61.468 0)
 			(effects
 				(font
@@ -11914,7 +11915,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1648"
+		(property "LCSC" "C1658"
 			(at 30.48 59.69 90)
 			(effects
 				(font
@@ -12099,7 +12100,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20pF"
+		(property "Value" "30pF"
 			(at 43.18 61.468 0)
 			(effects
 				(font
@@ -12135,7 +12136,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1648"
+		(property "LCSC" "C1658"
 			(at 38.1 59.69 90)
 			(effects
 				(font
