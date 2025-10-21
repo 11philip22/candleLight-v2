@@ -10086,7 +10086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709271493435392"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
