@@ -1,9 +1,17 @@
 # candleLight
 
+### [v2.1](https://github.com/11philip22/candleLight-v2/tree/v2.1)
 <p>
-    <img src="images/2_1.jpg" alt="Photo1" width="200"/>
-    <img src="images/2_5.jpg" alt="Photo1" width="200"/>
-    <img src="images/2_4.jpg" alt="Photo1" width="200"/>
+    <img src="images/v2.1_1.png" alt="Photo1" width="200"/>
+    <img src="images/v2.1_2.png" alt="Photo1" width="200"/>
+    <img src="images/v2.1_3.png" alt="Photo1" width="200"/>
+</p>
+
+### [v2](https://github.com/11philip22/candleLight-v2/tree/v2)
+<p>
+    <img src="images/v2_1.jpg" alt="Photo1" width="200"/>
+    <img src="images/v2_5.jpg" alt="Photo1" width="200"/>
+    <img src="images/v2_4.jpg" alt="Photo1" width="200"/>
 </p>
 
 ## Changelog
