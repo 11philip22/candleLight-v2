@@ -20,6 +20,7 @@ V2.1
 - added schottky diode in between vbus and V5+
 - added ESD protection on usb lines 
 - added usart pinheaders
+- added spi pinheaders
 
 V2
 - change voltage converter
