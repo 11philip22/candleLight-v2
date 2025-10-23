@@ -12408,7 +12408,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "SCK"
+	(gr_text "3V3"
 		(at 144.225 66.825 90)
 		(layer "F.SilkS")
 		(uuid "c866f5bd-ad56-4125-8848-5b2ccb76e30a")
