@@ -6,6 +6,11 @@
     <img src="images/v2.1_2.png" alt="Photo1" width="200"/>
     <img src="images/v2.1_3.png" alt="Photo1" width="200"/>
 </p>
+<p>
+    <img src="images/v2.1_4.jpg" alt="Photo1" width="200"/>
+    <img src="images/v2.1_5.jpg" alt="Photo1" width="200"/>
+    <img src="images/v2.1_6.jpg" alt="Photo1" width="200"/>
+</p>
 
 ### [v2](https://github.com/11philip22/candleLight-v2/tree/v2)
 <p>
