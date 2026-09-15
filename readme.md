@@ -30,24 +30,21 @@ Open `candleLight.kicad_pro` in KiCad 9 or newer, with the standard symbol, foot
 
 ### [V2.1](https://github.com/11philip22/candleLight-v2/tree/v2.1)
 
-<p>
-    <img src="images/v2.1_1.png" alt="candleLight V2.1 board view 1" width="200"/>
-    <img src="images/v2.1_2.png" alt="candleLight V2.1 board view 2" width="200"/>
-    <img src="images/v2.1_3.png" alt="candleLight V2.1 board view 3" width="200"/>
-</p>
-<p>
-    <img src="images/v2.1_4.jpg" alt="candleLight V2.1 assembly photo 1" width="200"/>
-    <img src="images/v2.1_5.jpg" alt="candleLight V2.1 assembly photo 2" width="200"/>
-    <img src="images/v2.1_6.jpg" alt="candleLight V2.1 assembly photo 3" width="200"/>
-</p>
+| Board view 1 | Board view 2 |
+| :---: | :---: |
+| [![candleLight V2.1 board view 1](images/v2.1_1.png)](images/v2.1_1.png) | [![candleLight V2.1 board view 2](images/v2.1_2.png)](images/v2.1_2.png) |
+| **Board view 3** | **Assembly photo 1** |
+| [![candleLight V2.1 board view 3](images/v2.1_3.png)](images/v2.1_3.png) | [![candleLight V2.1 assembly photo 1](images/v2.1_4.jpg)](images/v2.1_4.jpg) |
+| **Assembly photo 2** | **Assembly photo 3** |
+| [![candleLight V2.1 assembly photo 2](images/v2.1_5.jpg)](images/v2.1_5.jpg) | [![candleLight V2.1 assembly photo 3](images/v2.1_6.jpg)](images/v2.1_6.jpg) |
 
 ### [V2](https://github.com/11philip22/candleLight-v2/tree/v2)
 
-<p>
-    <img src="images/v2_1.jpg" alt="candleLight V2 assembly photo 1" width="200"/>
-    <img src="images/v2_5.jpg" alt="candleLight V2 assembly photo 2" width="200"/>
-    <img src="images/v2_4.jpg" alt="candleLight V2 assembly photo 3" width="200"/>
-</p>
+| Assembly photo 1 | Assembly photo 2 |
+| :---: | :---: |
+| [![candleLight V2 assembly photo 1](images/v2_1.jpg)](images/v2_1.jpg) | [![candleLight V2 assembly photo 2](images/v2_5.jpg)](images/v2_5.jpg) |
+| **Assembly photo 3** | |
+| [![candleLight V2 assembly photo 3](images/v2_4.jpg)](images/v2_4.jpg) | |
 
 ## Board revisions
 
