@@ -26,29 +26,9 @@ git submodule update --init --recursive
 
 Open `candleLight.kicad_pro` in KiCad 9 or newer, with the standard symbol, footprint, and 3D-model libraries installed. The board references `KICAD9_3DMODEL_DIR`; when using a newer KiCad version, set that path variable to the installed 3D-model library directory if models are missing.
 
-## Board photos
-
-### [V2.1](https://github.com/11philip22/candleLight-v2/tree/v2.1)
-
-| Board view 1 | Board view 2 |
-| :---: | :---: |
-| [![candleLight V2.1 board view 1](images/v2.1_1.png)](images/v2.1_1.png) | [![candleLight V2.1 board view 2](images/v2.1_2.png)](images/v2.1_2.png) |
-| **Board view 3** | **Assembly photo 1** |
-| [![candleLight V2.1 board view 3](images/v2.1_3.png)](images/v2.1_3.png) | [![candleLight V2.1 assembly photo 1](images/v2.1_4.jpg)](images/v2.1_4.jpg) |
-| **Assembly photo 2** | **Assembly photo 3** |
-| [![candleLight V2.1 assembly photo 2](images/v2.1_5.jpg)](images/v2.1_5.jpg) | [![candleLight V2.1 assembly photo 3](images/v2.1_6.jpg)](images/v2.1_6.jpg) |
-
-### [V2](https://github.com/11philip22/candleLight-v2/tree/v2)
-
-| Assembly photo 1 | Assembly photo 2 |
-| :---: | :---: |
-| [![candleLight V2 assembly photo 1](images/v2_1.jpg)](images/v2_1.jpg) | [![candleLight V2 assembly photo 2](images/v2_5.jpg)](images/v2_5.jpg) |
-| **Assembly photo 3** | |
-| [![candleLight V2 assembly photo 3](images/v2_4.jpg)](images/v2_4.jpg) | |
-
 ## Board revisions
 
-### V2.1
+### [V2.1](https://github.com/11philip22/candleLight-v2/tree/v2.1)
 
 - Reworked decoupling capacitors.
 - Added NRST and BOOT0 controls, an NRST pull-up, and a higher-value BOOT0 resistor.
@@ -58,9 +38,23 @@ Open `candleLight.kicad_pro` in KiCad 9 or newer, with the standard symbol, foot
 - Upgraded the CAN transceiver from TJA1051-3 to TJA1051TK-3.
 - Added a Schottky diode between VBUS and V5+ and ESD protection on the USB lines.
 
-### V2
+### [V2](https://github.com/11philip22/candleLight-v2/tree/v2)
 
 - Changed the voltage regulator and crystal.
 - Switched to USB-C.
 - Replaced the Tag-Connect connector with standard pin headers.
 - Replaced the VGA-style CAN connector with a Phoenix screw terminal.
+
+## Board photos
+
+### [V2.1](https://github.com/11philip22/candleLight-v2/tree/v2.1)
+
+| Assembly photo 1 | Assembly photo 2 | Assembly photo 3 |
+| :---: | :---: | :---: |
+| [<img src="images/v2.1_4.jpg" alt="candleLight V2.1 assembly photo 1" width="180">](images/v2.1_4.jpg) | [<img src="images/v2.1_5.jpg" alt="candleLight V2.1 assembly photo 2" width="180">](images/v2.1_5.jpg) | [<img src="images/v2.1_6.jpg" alt="candleLight V2.1 assembly photo 3" width="180">](images/v2.1_6.jpg) |
+
+### [V2](https://github.com/11philip22/candleLight-v2/tree/v2)
+
+| Assembly photo 1 | Assembly photo 2 | Assembly photo 3 |
+| :---: | :---: | :---: |
+| [<img src="images/v2_1.jpg" alt="candleLight V2 assembly photo 1" width="180">](images/v2_1.jpg) | [<img src="images/v2_5.jpg" alt="candleLight V2 assembly photo 2" width="180">](images/v2_5.jpg) | [<img src="images/v2_4.jpg" alt="candleLight V2 assembly photo 3" width="180">](images/v2_4.jpg) |
